@@ -1,0 +1,6 @@
+{
+  "name": "soalpintar.ai - Guru Panel",
+  "description": "Platform pembuatan soal cerdas berbasis AI untuk guru, manajemen bank soal, distribusi ujian live real-time, dan status langganan paket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
